@@ -1,10 +1,10 @@
 import React from 'react';
-import passGntr from '../assets/PassGntr.png';
-import quizGame from '../assets/QuizGame.png';
-import workDaySchedule from '../assets/workdaySchedule.png';
-import hungerManagment from '../assets/hunger-managment.png';
-import noteTaker from '../assets/noteTaker.png';
-import motorcycleClub from '../assets/motorcycle-club.png';
+import passGntr from '../assets/images/PassGntr.png';
+import quizGame from '../assets/images/QuizGame.png';
+import workDaySchedule from '../assets/images/workdaySchedule.png';
+import hungerManagment from '../assets/images/hunger-managment.png';
+import noteTaker from '../assets/images/noteTaker.png';
+import motorcycleClub from '../assets/images/motorcycle-club.png';
 
 
 const Work = () => {
