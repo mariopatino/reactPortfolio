@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     This project is license under the "https://opensource.org/licenses/MIT"
 * [Installation](#installation)
 * [Tests](#tests)
-* [Motivation](#motivation)
+* [Credit](#credit)
 * [Contact](#contact)
 
 
@@ -45,6 +45,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Node.js
 * React
 
+## Credit
+  I found this tutorial en youtube and followed it. It was really simple and usefull: https://www.youtube.com/watch?v=2kg0z1qNrkw
+  
 ## Autor
     For any question or inquiery
 * GitHub: [mariopatino](https://github.com/mariopatino)
